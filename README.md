@@ -6,10 +6,10 @@
 
 ## 👋 About Me
 - 🇰🇷 Web Developer based in South Korea  
-- 🎓 Bachelor of **Information and Communication Engineering**  
-- 💻 Experienced in building full-stack web applications using **Spring Boot**, **React**, and **AWS**  
-- ☁️ Interested in **Cloud Infrastructure**, **Automation**, and **AI-driven Services**  
-- 💡 Passionate about solving real-world problems through scalable web architecture
+- 🎓 Bachelor of **Division of Artificial Intelligence Engineering**  
+- 💻   
+- ☁️ 
+- 💡
 
 ---
 
