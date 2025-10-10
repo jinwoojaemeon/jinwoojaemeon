@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 - 🇰🇷 Web Developer based in South Korea  
-- 🎓 Bachelor of **Division of Artificial Intelligence Engineering**  
+- 🎓 Bachelor of **Division of Artificial Intelligence Engineerin0g-computer engineering**  
 - 💻   
 - ☁️ 
 - 💡
