@@ -12,6 +12,7 @@
 - 💡
 
 ---
+## 🧱 Tech Stack
 
 ### 💻 Language
 <p>
@@ -21,10 +22,23 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
 
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+</p>
 
----
+### ⚙️ Backend Technology
+<p>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=Java&logoColor=white"/>
+</p>
 
----
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</p>
 
 ## 📊 GitHub 통계
 <div align="center">
@@ -39,7 +53,6 @@
 
 ---
 
-## 🌍 나와 연결하기
 ## 🌍 나와 연결하기
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-프로필-blue?style=flat-square&logo=LinkedIn&logoColor=white)](링크드인주소)
 [![Gmail](https://img.shields.io/badge/이메일-보내기-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:wlsdn980718@gmail.com)
