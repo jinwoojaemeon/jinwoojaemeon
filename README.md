@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP%20&%20Servlet-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Valkey-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 </p>
 
