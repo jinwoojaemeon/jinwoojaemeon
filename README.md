@@ -4,7 +4,8 @@
 
 ## 👋 About Me
 - 🇰🇷 Web Developer based in South Korea  
-- 🎓 Bachelor of **Division of Artificial Intelligence Engineering-computer engineering Major** - 💻 **Spring Boot**와 **React**를 활용한 효율적인 웹 애플리케이션 개발에 관심이 많습니다.
+- 🎓 Bachelor of **Division of Artificial Intelligence Engineering-computer engineering Major**
+-      - 💻 **Spring Boot**와 **React**를 활용한 효율적인 웹 애플리케이션 개발에 관심이 많습니다.
 - ☁️ **AWS(EC2, RDS, S3)**를 활용한 인프라 구축 및 클라우드 환경 배포 경험이 있습니다.
 - 💡 단순한 기능 구현을 넘어, 데이터베이스 성능 최적화와 사용자 경험(UX) 개선을 끊임없이 고민합니다.
 
